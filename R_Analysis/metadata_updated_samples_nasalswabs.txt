@@ -1,0 +1,73 @@
+sample_ID	type	sample_type	pool_type	pool_ID	pool_type_ID
+A3-NRC1_S522	sample	pool	dna	A	pool A
+A3-NRC1t_S523	sample	pool	raw	A	pool A
+A3-NRC2_S524	sample	pool	dna	B	pool B
+A3-NRC2t_S525	sample	pool	raw	B	pool B
+A5-NRC1_S526	sample	pool	dna	C	pool C
+A5-NRC1t_S527	sample	pool	raw	C	pool C
+A5-NRC2_S529	sample	pool	dna	D	pool D
+A5-NRC2t_S530	sample	pool	raw	D	pool D
+A6-NRC1_S531	sample	pool	dna	E	pool E
+A6-NRC1t_S532	sample	pool	raw	E	pool E
+A6-NRC2_S533	sample	pool	dna	F	pool F
+A6-NRC2t_S534	sample	pool	raw	F	pool F
+A7-NRC1_S535	sample	pool	dna	G	pool G
+A7-NRC1t_S538	sample	pool	raw	G	pool G
+A7-NRC2_S539	sample	pool	dna	H	pool H
+A7-NRC2t_S540	sample	pool	raw	H	pool H
+A8-NRC1_S541	sample	pool	dna	I	pool I
+A8-NRC1t_S542	sample	pool	raw	I	pool I
+A8-NRC2_S543	sample	pool	dna	J	pool J
+A8-NRC2t_S545	sample	pool	raw	J	pool J
+SP-EB1_S521	control	eb			
+SP-EB2_S544	control	eb			
+SP-NTC1_S528	control	ntc			
+SP-NTC2_S536	control	ntc			
+SP-NTC3_S537	control	ntc			
+03-01_S21	sample	individual	individual	A	individual A
+03-02_S22	sample	individual	individual	A	individual A
+03-03_S23	sample	individual	individual	B	individual B
+03-04_S24	sample	individual	individual	B	individual B
+03-05_S25	sample	individual	individual	B	individual B
+03-06_S26	sample	individual	individual	A	individual A
+03-07_S27	sample	individual	individual	B	individual B
+03-08_S28	sample	individual	individual	A	individual A
+03-09_S29	sample	individual	individual	B	individual B
+05-01_S39	sample	individual	individual	C	individual C
+05-02_S40	sample	individual	individual	D	individual D
+05-03_S41	sample	individual	individual	C	individual C
+05-04_S42	sample	individual	individual	C	individual C
+05-05_S43	sample	individual	individual	C	individual C
+05-06_S44	sample	individual	individual	D	individual D
+05-07_S45	sample	individual	individual	D	individual D
+05-08_S46	sample	individual	individual	D	individual D
+05-09_S47	sample	individual	individual	C	individual C
+06-01_S48	sample	individual	individual	E	individual E
+06-02_S49	sample	individual	individual	E	individual E
+06-03_S50	sample	individual	individual	F	individual F
+06-04_S51	sample	individual	individual	F	individual F
+06-05_S52	sample	individual	individual	E	individual E
+06-06_S53	sample	individual	individual	F	individual F
+06-07_S54	sample	individual	individual	E	individual E
+06-08_S55	sample	individual	individual	F	individual F
+07-01_S56	sample	individual	individual	G	individual G
+07-02_S57	sample	individual	individual	H	individual H
+07-03_S58	sample	individual	individual	G	individual G
+07-04_S59	sample	individual	individual	H	individual H
+07-05_S60	sample	individual	individual	G	individual G
+07-06_S61	sample	individual	individual	G	individual G
+07-07_S62	sample	individual	individual	H	individual H
+07-08_S63	sample	individual	individual	H	individual H
+07-10_S64	sample	individual	individual	J	individual J
+08-01_S65	sample	individual	individual	J	individual J
+08-02_S66	sample	individual	individual	I	individual I
+08-03_S67	sample	individual	individual	I	individual I
+08-04_S68	sample	individual	individual	I	individual I
+08-05_S69	sample	individual	individual	J	individual J
+08-06_S70	sample	individual	individual	I	individual I
+08-07_S71	sample	individual	individual	J	individual J
+08-08_S72	sample	individual	individual	I	individual I
+08-09_S73	sample	individual	individual	J	individual J
+08-10_S74	sample	individual	individual	J	individual J
+NTC1_S1	control	ntc			
+NTC2_S75	control	ntc			
