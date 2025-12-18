@@ -1,2 +1,3 @@
-This repository contains all of the code and input files required to replicate the analysis in the manuscript "" currently under review at ... (as of..)
+This repository contains all of the code and input files required to replicate the analysis in the manuscript "Do pooled raw samples or DNA accurately represent upper respiratory tract microbial communities in cattle?" currently under review at ... (as of..)
+
 Raw sequence reads have been made publically available at NCBI's SRA under the BioProject .....
