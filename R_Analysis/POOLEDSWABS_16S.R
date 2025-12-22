@@ -44,7 +44,7 @@ library(coin); library(reshape2); library(ggnewscale); library (ggplotify); libr
 library (spaa); library (metagMisc); library (ggtern); library(microbiomeutilities); library (janitor)
 library(ggsignif); library(ranacapa); library(ggplotify); library(tiff); library ("ggh4x"); library(grid)
 
-
+#Load functions######
 source("g_unifrac.R")
 source("uw_unifrac.R")
 source("w_unifrac.R")
@@ -59,7 +59,7 @@ qiimedata ##79334 taxa and 72 samples
 #Sample names####
 write.csv(sample_names(qiimedata), "sample_names.csv")
 
-##Downloaded the file and made a couple changes to unite and make the metadata file 
+##Metadata file 
 map_file <- import_qiime_sample_data("metadata_updated_samples_nasalswabs.txt")
 
 # Combining data with metadata #######
