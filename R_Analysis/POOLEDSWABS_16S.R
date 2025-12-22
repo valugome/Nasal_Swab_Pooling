@@ -149,7 +149,7 @@ min(sample_sums(data2)) # 1, one sample only has 1 ASV
 max(sample_sums(data2)) # 5,823,716
 mean(sample_sums(data2)) #558,227.2 
 median(sample_sums(data2)) # 105,777.5
-sort(sample_sums(data2)) # 1,6,14,73,208,227, 448 (controls and extraction blanks) 
+sort(sample_sums(data2)) # 1,6,14,73,208,227, 448...
 #Most of the low ones are the individual samples
 
 ##Only Extraction blanks and NTC 
